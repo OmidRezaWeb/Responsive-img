@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(0, 0, 47);
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    max-width: 100%;
+    height: auto;
+}
+h1{
+    font-size: clamp(2rem, 0.4rem + 4vw, 4rem);
+}
+p{
+    font-size: 1rem;
+}
